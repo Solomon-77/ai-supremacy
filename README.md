@@ -1,1 +1,1 @@
-# ai-supremacy
+# AI Supremacy
